@@ -16,3 +16,6 @@ keep file as private--right click->Ignore File
 git add=======working repo--->staging repo
 git commit -m "msg" ======staging area--->local repo
 git push ======= local repo--->remote repo
+
+create branch 
+push file from local branch to main branch--->pull request
