@@ -13,4 +13,6 @@ Working repo --(add)staging area--(commit)Local repo(virtual)--Remote repo
 
 keep file as private--right click->Ignore File
 
-git add-working repo--->staging repo
+git add=======working repo--->staging repo
+git commit -m "msg" ======staging area--->local repo
+git push ======= local repo--->remote repo
