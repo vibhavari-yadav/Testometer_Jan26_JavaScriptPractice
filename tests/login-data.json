@@ -1,0 +1,27 @@
+[
+    
+    {
+      "scenario": "Invalid password",
+      "username": "student",
+      "password": "wrongPassword",
+      "errorMessage": "Your password is invalid!"
+    },
+    {
+      "scenario": "Your username is invalid!",
+      "username": "unknown@example.com",
+      "password": "Password123",
+      "errorMessage": "Your username is invalid!"
+    },
+    {
+      "scenario": "Empty username",
+      "username": "",
+      "password": "Password123",
+      "errorMessage": "Your username is invalid!"
+    },
+    {
+      "scenario": "Empty password",
+      "username": "student",
+      "password": "",
+      "errorMessage": "Your password is invalid!"
+    }
+  ]
