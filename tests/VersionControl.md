@@ -8,3 +8,9 @@ Repository:Used to Centralized Data
 1.Create account on gitgub
 2.Download Github Desktop
 
+
+Working repo --(add)staging area--(commit)Local repo(virtual)--Remote repo
+
+keep file as private--right click->Ignore File
+
+git add-working repo--->staging repo
